@@ -4,7 +4,7 @@
 
 Free, open-source checklists, templates, and guides to help Southeast Asian small and medium enterprises comply with Thailand's Personal Data Protection Act (PDPA). Fork it, adapt it, ship it.
 
-![SeaPDPA Home - Thai](docs/screenshots/home-th.png)
+![SeaPDPA Home - Thai](./docs/screenshots/home-th.png)
 
 ## Features
 
@@ -45,10 +45,10 @@ Open [http://localhost:43127](http://localhost:43127) in your browser. Defaults 
 ## Screenshots
 
 ### Home Page (Thai)
-![Home Thai](docs/screenshots/home-th.png)
+![Home Thai](./docs/screenshots/home-th.png)
 
 ### Checklist Page (Thai)
-![Checklist Thai](docs/screenshots/checklist-th.png)
+![Checklist Thai](./docs/screenshots/checklist-th.png)
 
 ## Tech Stack
 
